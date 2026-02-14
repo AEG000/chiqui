@@ -13,19 +13,20 @@ const noMessages = [
     "No 🥺",
     "¿Estás segura, chiqui? 🤔",
     "Mi amorcito, piénsalo bien... 🥺",
-    "Si dices que no me pondré bien triste, amorcitou... 💔",
-    "Voy a estar muy sad, mi amor 😢",
-    "Porfiiis, chiquitina 💕",
+    "Si dices que no me pondré muy triste, amorcitou... 💔",
+    "Por favor, mi amorcito 😢",
+    "Chiquitina 💕",
     "No me hagas esto, mi amorcito...",
     "Última oportunidad, chiqui 😭",
-    "No puedes escapar de mí, amorcitou 😜"
+    "Yo soy tu San Valentín, no te dejare decir que no😢"
 ]
 
 const yesTeasePokes = [
-    "Intenta decir que no primero... a ver qué pasa, chiqui 😏",
-    "Ándale mi amor, presiona no... solo una vez 👀",
-    "Te estás perdiendo algo, mi amorcito 😈",
-    "Haz clic en no, chiquitina… te reto 😏"
+    "Gracias por poner que sí, amorcito💖, te amo muchisimo, pero intenta poner que no para que veas qué pasa...",
+    "Mi chiqui hermosa ya dijo que sí 💖 pero prueba el no una vez, andale 😌",
+    "Gracias mi amorcito 💕 ahora intenta el no",
+    "Yo también quiero ser tu san valentin 😌💘 pero presiona no un momentito, chiquitina",
+    "Gracias por el sí, amorcitou 🥰 ahora picale al no para que veas lo que hice 👀"
 ]
 
 let yesTeasedCount = 0
